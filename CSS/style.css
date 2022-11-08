@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    
+  }
+
+
+
+  .col{
+    background-color:white;
+    color:black;
+  }
+  
+  img{
+    width:300px;
+    padding:10px;
+    margin:20px;
+  }
+  
+  #nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+  }
+
+  ul, li, a{
+    font-size: 25px;
+    margin-left: 20px;
+    
+  }
+  
+  .btn{
+    margin: 20px;
+    padding:10px;
+  }
+  
+  hr{
+    width:1000px;
+    border: 2px solid blue !important;
+  }
+  
+  /* img .1st{
+    height:10px !important;
+    
+  } */
